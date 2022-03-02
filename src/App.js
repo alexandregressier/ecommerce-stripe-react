@@ -1,8 +1,9 @@
+import Header from "./components/header/header"
 import "./App.scss"
 
 const App = () =>
   <div className="App">
-    E-commerce Stripe/React
+    <Header/>
   </div>
 
 export default App
